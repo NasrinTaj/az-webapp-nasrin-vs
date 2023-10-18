@@ -14,6 +14,7 @@ namespace az_webapp_nasrin_vs.Pages
 
         public void OnGet()
         {
+            throw new Exception("Testing Insights");
         }
     }
 }
